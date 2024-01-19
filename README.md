@@ -26,7 +26,7 @@ This is a solution from the challenge based on Day 7 of the [100 Days of Code: T
 
 To execute the game, just run in the terminal the command `python main.py`
 
-If you want to change the list of words available for the game, you can change the variable `word_list` in the `word.py` file.
+If you want to change the list of words available for the game, you can change the variable `word_list` in the `words.py` file.
 
 ## My process
 
